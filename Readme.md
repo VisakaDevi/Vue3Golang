@@ -1,0 +1,1 @@
+DSN=host=localhost port=5432 user=postgress password=password dbname=vueapi timezone=UTC connect_timeout=5 sslmode=disable
